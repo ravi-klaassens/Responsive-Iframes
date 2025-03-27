@@ -12,7 +12,7 @@ A lightweight, dependency-free JavaScript solution that makes iframes fully resp
 
 ## Demo
 
-See the [live demo](https://ravi-klaassens.github.io/responsive-iframe/) or check out the `demo.html` file in this repository.
+See the [live demo](https://ravi-klaassens.github.io/responsive-iframes/) or check out the `demo.html` file in this repository.
 
 ## Installation
 
@@ -26,10 +26,10 @@ Download either the full or minified version:
 
 ```html
 <!-- Full version -->
-<script src="https://cdn.jsdelivr.net/gh/ravi-klaassens/responsive-iframe@main/responsive-iframe.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/ravi-klaassens/responsive-iframes@main/responsive-iframe.js"></script>
 
 <!-- Minified version -->
-<script src="https://cdn.jsdelivr.net/gh/ravi-klaassens/responsive-iframe@main/responsive-iframe.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/ravi-klaassens/responsive-iframes@main/responsive-iframe.min.js"></script>
 ```
 
 ## Usage

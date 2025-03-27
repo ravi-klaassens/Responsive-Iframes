@@ -18,10 +18,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ravi-klaassens/responsive-iframe.git"
+    "url": "git+https://github.com/ravi-klaassens/responsive-iframes.git"
   },
   "bugs": {
-    "url": "https://github.com/ravi-klaassens/responsive-iframe/issues"
+    "url": "https://github.com/ravi-klaassens/responsive-iframes/issues"
   },
-  "homepage": "https://github.com/ravi-klaassens/responsive-iframe#readme"
+  "homepage": "https://github.com/ravi-klaassens/responsive-iframes#readme"
 } 
