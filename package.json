@@ -1,0 +1,27 @@
+{
+  "name": "responsive-iframe",
+  "version": "1.0.0",
+  "description": "A lightweight JavaScript solution that makes iframes fully responsive by calculating width/height based on the user's viewport",
+  "main": "responsive-iframe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "iframe",
+    "responsive",
+    "vimeo",
+    "embed",
+    "video",
+    "background"
+  ],
+  "author": "Ravi Klaassens at Paramor©, (paramor.nl)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravi-klaassens/responsive-iframe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ravi-klaassens/responsive-iframe/issues"
+  },
+  "homepage": "https://github.com/ravi-klaassens/responsive-iframe#readme"
+} 
